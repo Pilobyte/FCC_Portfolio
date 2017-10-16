@@ -26,6 +26,7 @@ header a{
     text-decoration:none;
     text-transform: uppercase;
     font-size: 16px;
+    text-shadow: 5px 3px 12px black;
 }
 
 header ul{
@@ -56,12 +57,14 @@ header nav{
     background:url('../images/showcase.jpeg') no-repeat 0 ;
     text-align: center;
     color: #FFFFFF;
+    text-shadow: 5px 3px 12px #FAF8F8;
 }
 
 #showcase h1{
     margin-top: 130px;
     font-size: 55px;
     margin-bottom: 10px;
+    text-shadow: 5px 3px 12px #423D3D;
 }#contact {
     padding: 15px;
     color: #ffffff;
@@ -71,7 +74,8 @@ header nav{
     font-size: 40px;
     float: right;
     margin-top: -70px;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
+    text-shadow: 5px 3px 12px black;
 }
 
 #portfolio {
@@ -90,12 +94,22 @@ header nav{
      height: 200px;
      
  }
+
+
+
 footer{
     text-align: center;
     font-weight: bold;
+    padding: 15px;
+    color: #ffffff;
+    background: #35424a
 }
 
 a:link, a:visited, a:hover, a:active {
     color: white;
+}
+
+h1 {
+    text-shadow: 5px 3px 12px black;
 }
  
