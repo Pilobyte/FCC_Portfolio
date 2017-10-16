@@ -54,7 +54,7 @@ header nav{
 }
 #showcase{
     min-height: 400px;
-    background:url('../images/showcase.jpeg') no-repeat 0 ;
+    background:url('../Images/showcase.jpeg') no-repeat 0 ;
     text-align: center;
     color: #FFFFFF;
     text-shadow: 5px 3px 12px #FAF8F8;
